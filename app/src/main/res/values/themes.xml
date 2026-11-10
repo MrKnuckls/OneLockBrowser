@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OneLockBrowser" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#0ea5e9</item>
+        <item name="colorPrimaryDark">#03121a</item>
+        <item name="android:statusBarColor">#03121a</item>
+        <item name="android:windowBackground">#03121a</item>
+    </style>
+</resources>

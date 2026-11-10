@@ -1,0 +1,4 @@
+#Tue Nov 10 04:34:28 UTC 2026
+base.0=/home/shaun/OneLockBrowser/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
